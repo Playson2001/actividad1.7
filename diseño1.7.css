@@ -106,9 +106,3 @@ footer h2{
 
 }
 
-@media (orientation: landscape){
-
-    #contenedor{
-      max-width: 85%;
-    }
-}
