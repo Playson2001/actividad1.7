@@ -60,6 +60,7 @@
 
 aside{
   width: 250px;
+  max-width: 960px;
   height: 500px;
   background: green;
   margin-top: 10px;
