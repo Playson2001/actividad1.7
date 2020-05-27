@@ -93,5 +93,10 @@ footer h2{
   #contenido{
     width: 100%;
   }
+ 
+  #contenedor{
+	width:320px;  
+  }
+	
 
 }
