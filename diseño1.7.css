@@ -105,3 +105,10 @@ footer h2{
   }
 
 }
+
+@media (orientation: landscape){
+
+    #contenedor{
+      width: 960px;
+    }
+}
