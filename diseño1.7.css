@@ -84,7 +84,7 @@ footer h2{
 	font-style: italic;	
 }
 
-@media screen and (max-width: 900px){
+@media screen and (max-width: 960px){
 
   aside{
     width: 100%;
